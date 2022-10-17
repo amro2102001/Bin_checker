@@ -7,7 +7,7 @@ Fetch: https://bins.su
 Thanks to [Λгɳαɓ <XLR8/>](https://telegram.me/Arnab431) for  https://binssuapi.vercel.app API
 
 ## Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reboot13-git/bin-checker-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amro2102001/Bin_checker)
 
 After Deploying App on Heroku - Setup Webhook
 
